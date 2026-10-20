@@ -63,7 +63,11 @@ Feedback is quoted verbatim where I have permission; otherwise summarised. Under
 
 ## Reflection
 
-*To write after the result.* Three questions: what I believed before the unit, what the evidence from the unit did to that belief, and what I will do differently.
+Before this unit, I believed that writing feedback was mainly about polishing style and correcting errors. In my professional life, I write a great deal for senior stakeholders and I have often found that many readers only engage with the summary, not the full argument. That experience had made me focus on clarity at the top level rather than on the thoroughness of the reasoning below it. The formal feedback on this paper challenged that assumption by showing that the value of writing is not only in being concise, but in being legible, well-structured, and persuasive at every stage of the argument.
+
+The feedback opened my eyes to how others read and interpret my thinking. It showed me that a strong argument is not simply one that is technically correct, but one that can be followed by a broader academic audience without losing the thread of the logic. This was particularly important for the paper I wrote on machine learning and fraud in tax administration, because the subject is deeply technical and easily obscured by jargon. The feedback helped me see how to make the argument clearer by defining terms early, signposting the structure, and tying technical content to operational consequences: workflow design, decision rights, staff allocation, and risk controls. It also gave me greater clarity about how my thinking sits within the wider discipline and how evidence needs to carry the analysis, not just my professional experience.
+
+Going forward, I will write with a wider reader in mind, not just the executive summary audience or the subject matter expert. I want to make sure that key terms are defined, that the narrative is signposted clearly, and that each claim is supported by evidence. I will also treat feedback as a way to sharpen the argument itself, not just to improve grammar. This unit helped me realise that academic writing is a form of communication as much as analysis, and that good feedback can reveal where my ideas are strong, where they need more structure, and where they need clearer explanation.
 
 ## Meeting notes
 
