@@ -1,0 +1,26 @@
+title: Philip C. Asiala — University of Essex e-portfolio
+description: One page per module — learning outcomes, artefacts and feedback, a reflective piece, meeting notes, and a professional skills matrix and action plan — plus a skills record across the programme.
+author: Philip C. Asiala
+url: https://philipasiala.github.io
+baseurl: /essex-portfolio
+theme: minima
+markdown: kramdown
+header_pages:
+  - index.md
+  - modules/index.md
+  - skills.md
+  - artefacts/index.md
+minima:
+  social_links:
+    github: PhilipAsiala
+exclude:
+  - README.md
+  - modules/TEMPLATE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
