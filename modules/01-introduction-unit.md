@@ -10,7 +10,7 @@ permalink: /modules/01-introduction-unit/
 | Module code | *to confirm* |
 | Dates | October 2026 |
 | Tutor | *to confirm* |
-| Result | pending |
+| Result | Pass (written portion); other components to record |
 
 ## Learning outcomes
 
@@ -22,7 +22,10 @@ The unit's stated outcomes, numbered as the handbook numbers them, each followed
 
 | Artefact | Due | Submitted | What it is | Feedback | Link |
 | --- | --- | --- | --- | --- | --- |
-| Short paper: *Artificial Intelligence in Public Sector Tax Administration: Fraud Detection and Cognitive Governance* | *to confirm* | *to confirm* | About 550 words on predictive and generative AI in tax administration and the governance it demands; Harvard references | pending | [artefacts/01-introduction-unit]({{ "/artefacts/01-introduction-unit/" | relative_url }}) |
+| Short paper, first submission: *AI in Public Sector Tax Administration: Fraud Detection and Cognitive Governance* | *to confirm* | *to confirm* | About 550 words; four references, one uncited | Received; the revision below shows what it addressed. Verbatim text to add if permitted. | [draft]({{ "/artefacts/01-introduction-unit/draft/" | relative_url }}) |
+| Short paper, final: *AI in Public Sector Tax Administration: Fraud Detection and Operational Change* | *to confirm* | *to confirm* | About 1,140 words; sector delimited, AI defined from Russell and Norvig, GAO and TIGTA evidence, controls specified per AI type, seven references all cited | Pass | [paper]({{ "/artefacts/01-introduction-unit/paper/" | relative_url }}) |
+
+What I did with the feedback is itemised on the [artefact page]({{ "/artefacts/01-introduction-unit/" | relative_url }}) as a side-by-side of the two versions.
 
 Feedback is quoted verbatim where I have permission; otherwise summarised. Under each piece of feedback: what I did with it.
 
@@ -40,8 +43,9 @@ Feedback is quoted verbatim where I have permission; otherwise summarised. Under
 
 | Skill | Before (1–5) | After (1–5) | Evidence on this page | Action to use or extend it |
 | --- | --- | --- | --- | --- |
-| Academic writing with Harvard referencing | | | the paper | |
-| Framing an engineering problem as a governance problem | | | the paper's critique section | |
+| Academic writing with Harvard referencing | | | the revision: every reference cited, page-level citation for the definition, British register | |
+| Arguing from documented evidence rather than assertion | | | GAO and TIGTA figures replacing unquantified claims | |
+| Framing an engineering problem as a governance problem | | | the policy-as-code and value-constraints section | |
 
 Rolled up into the [programme skills record]({{ "/skills/" | relative_url }}) when the unit is finished.
 

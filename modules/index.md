@@ -9,6 +9,6 @@ One page per module, in the order taken. A page is created the week a module sta
 
 | # | Module | Dates | Result | Page |
 | --- | --- | --- | --- | --- |
-| 1 | Introduction unit | October 2026 | pending | [page]({{ "/modules/01-introduction-unit/" | relative_url }}) |
+| 1 | Introduction unit | October 2026 | pass (written portion) | [page]({{ "/modules/01-introduction-unit/" | relative_url }}) |
 
 <!-- Add a row per module: | 1 | Module title | Oct–Dec 2026 | pending | [page]({{ "/modules/01-short-title/" | relative_url }}) | -->

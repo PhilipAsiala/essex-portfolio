@@ -7,16 +7,31 @@ permalink: /artefacts/01-introduction-unit/
 
 | | |
 | --- | --- |
-| Title | [Artificial Intelligence in Public Sector Tax Administration: Fraud Detection and Cognitive Governance]({{ "/artefacts/01-introduction-unit/paper/" | relative_url }}) |
+| Final | [Artificial Intelligence in Public Sector Tax Administration: Fraud Detection and Operational Change]({{ "/artefacts/01-introduction-unit/paper/" | relative_url }}) — about 1,140 words plus references |
+| First submission | [Artificial Intelligence in Public Sector Tax Administration: Fraud Detection and Cognitive Governance]({{ "/artefacts/01-introduction-unit/draft/" | relative_url }}) — about 550 words plus references |
 | Module | [01 — Introduction unit]({{ "/modules/01-introduction-unit/" | relative_url }}) |
-| Form | Short report, about 550 words plus references, Harvard referencing |
-| Submitted | *date to confirm* |
-| Feedback | pending; recorded on the module page when received |
+| Form | Short report, Harvard referencing |
+| Result | Pass (written portion) |
 
 ## What it is
 
-A short report on how predictive and generative AI change public-sector tax administration, and what governance that change demands. It argues that statistical plausibility is not a sufficient basis for an automated decision, that value constraints (axiology) have to be engineered into the platform as policy-as-code, and that the hard problem is translating qualitative public values into enforceable rules without hard-coding bias or destroying throughput.
+A report on how predictive and generative AI change public-sector tax administration and what governance that change demands. The final version argues from documented outcomes (GAO and TIGTA figures on refund fraud prevented and false-positive rates) that the gains depend on explicit controls, including model monitoring, human checkpoints, and policy-as-code, and that the limiting factor is translating statutory and equity requirements into reliable, performant constraints rather than computational speed.
+
+## What the revision changed
+
+Both versions are kept. Read side by side, the final differs from the first submission in these ways:
+
+| Area | First submission | Final |
+| --- | --- | --- |
+| Sector | Named but not delimited | Defined explicitly as public sector tax administration, distinguished from private financial services |
+| Definition of AI | Author's own ("a statistical process") | Russell and Norvig (2021, p. viii), cited with page; the reference is now used in the text |
+| Evidence | None quantified | GAO (2026): about $88 billion in invalid refunds prevented FY2018–2024; TIGTA (2026): legitimate-return selection reduced from 55% to 52% |
+| Structure | Four short sections | Predictive and generative AI treated separately, each with *impact on workflows* and *risk controls and trade-offs* |
+| Generative AI controls | Risk stated | Controls specified: human-in-the-loop as mandatory draft review, surfacing of underlying fields and features, logging of every generation |
+| Policy-as-code | Asserted | Defined with a source (IBM, 2026) and given concrete tax-administration examples |
+| Register | Informal in places ("sounds perfect in theory", "incredibly difficult", "massive") | Measured; British spelling throughout |
+| References | Four, one uncited | Seven, all cited |
 
 ## How to read it
 
-`paper.md` is the text as submitted, with the section headings set as headings; nothing else was changed. Later corrections, if any, are separate commits so the submitted version stays visible in the history.
+`paper.md` is the final text; `draft.md` is the first submission. Each is as submitted with section headings set as headings; nothing else was changed. The git history of this directory shows the order.
