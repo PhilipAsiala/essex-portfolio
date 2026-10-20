@@ -9,4 +9,4 @@ One directory per piece of submitted work, named `NN-short-title/` to match its 
 
 | Module | Artefact | Submitted | Directory |
 | --- | --- | --- | --- |
-| | | | |
+| 01 — Introduction unit | Short paper: *AI in Public Sector Tax Administration: Fraud Detection and Cognitive Governance* | *to confirm* | [01-introduction-unit]({{ "/artefacts/01-introduction-unit/" | relative_url }}) |
