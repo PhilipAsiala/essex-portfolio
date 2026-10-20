@@ -27,6 +27,23 @@ The module's stated outcomes, numbered as the handbook numbers them, each follow
 
 Added as each piece of work is set. Feedback is quoted verbatim where I have permission; otherwise summarised. Under each piece of feedback: what I did with it.
 
+## Code
+
+```mermaid
+graph LR
+    A[Understand the problem] --> B[Design an algorithm]
+    B --> C[Write a program]
+    C --> D[Look back at your algorithm and results]
+
+    %% Feedback and iterative loops
+    B --> A
+    C --> B
+    C --> A
+    D --> C
+    D --> B
+    D --> A
+```
+
 ## Reflection
 
 *To write after the result.* Three questions: what I believed before the module, what the evidence from the module did to that belief, and what I will do differently.
