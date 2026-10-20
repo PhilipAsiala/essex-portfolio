@@ -9,8 +9,8 @@ permalink: /modules/01-introduction-unit/
 | --- | --- |
 | Module code | *to confirm* |
 | Dates | October 2026 |
-| Tutor | *to confirm* |
-| Result | Pass (written portion); other components to record |
+| Tutor | Dr Mohammad Aamir Turk |
+| Result | Pass |
 
 ## Learning outcomes
 

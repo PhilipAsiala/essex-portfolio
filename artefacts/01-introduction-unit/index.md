@@ -11,7 +11,7 @@ permalink: /artefacts/01-introduction-unit/
 | First submission | [Artificial Intelligence in Public Sector Tax Administration: Fraud Detection and Cognitive Governance]({{ "/artefacts/01-introduction-unit/draft/" | relative_url }}) — about 550 words plus references |
 | Module | [01 — Introduction unit]({{ "/modules/01-introduction-unit/" | relative_url }}) |
 | Form | Short report, Harvard referencing |
-| Result | Pass (written portion) |
+| Result | Pass (module passed) |
 
 ## What it is
 
