@@ -19,7 +19,7 @@ A report on how predictive and generative AI change public-sector tax administra
 
 ## What the revision changed
 
-Both versions are kept. Read side by side, the final differs from the first submission in these ways:
+Both versions are kept. The marker's feedback is quoted in full on the [module page]({{ "/modules/01-introduction-unit/" | relative_url }}#feedback-on-the-first-submission), with each recommendation mapped to the change it produced. Read side by side, the final differs from the first submission in these ways:
 
 | Area | First submission | Final |
 | --- | --- | --- |
