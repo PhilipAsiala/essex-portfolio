@@ -68,6 +68,8 @@ First live seminar, tutor Beran Necat.
 
 Prepared discussion answers and a short slide deck in advance of the session.
 
+**As it ran:** a casual introductory session; only the icebreaker activity was covered on the day. The remaining preparation below stands as Unit 1 study material.
+
 **Prepared point for the classical-vs-quantum discussion:** both quantum computing and AI models are probabilistic — a quantum computation returns one outcome drawn from a probability distribution the algorithm has shaped (so it is run many times and read statistically), and a language model likewise samples from a distribution over its outputs — while classical computing is deterministic: same input, same output, every time. The probabilities differ in source (physics vs learned statistics), but the consequence is shared: a probabilistic system needs deterministic checks around its output before that output can be trusted.
 
 ## Professional skills matrix and action plan
