@@ -13,7 +13,7 @@ Pensacola, Florida. I work on enterprise AI as an organizational design problem:
 | [moepa-cognitive-architecture](https://github.com/PhilipAsiala/moepa-cognitive-architecture) | Reference architecture and enterprise capability catalog |
 | [moepa-profile](https://github.com/PhilipAsiala/moepa-profile) | JSON-LD 1.1 / RDF 1.2 profile for the MOEPA record: one triple plus four envelopes |
 
-Two private reference implementations (one on hardware I own with local models, one on Google Cloud as services that scale to zero) run the same capability units and pass the same checks; what they prove is reported back into the architecture and the thesis.
+A private reference implementation (`moepa-lab`, on hardware I own with local models) runs the capability units and passes their checks; what they prove is reported back into the architecture and the thesis.
 
 ## This e-portfolio
 
